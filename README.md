@@ -1,3 +1,10 @@
+# Assessment 4  
+Nama   : Larasati Khadijah K.K.  
+NIM    : 202210370311410  
+Matkul : Pemrograman Mobile - 5F
+
+CRUD - TAMPILAN APP MOBILE
+
 # appbaru
 
 A new Flutter project.
