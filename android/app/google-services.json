@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046212845648",
+    "project_id": "beadaisy-5f044",
+    "storage_bucket": "beadaisy-5f044.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046212845648:android:29845c293c692cc861f155",
+        "android_client_info": {
+          "package_name": "com.example.appbaru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4rCn3-yiDyU58k-wPydT9uFaaGa-zHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
